@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Apsara Weerasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Apsara197&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 - 🔭 I’m currently working on **I’m an undergraduate student at the University of Peradeniya (UOP).**
 
