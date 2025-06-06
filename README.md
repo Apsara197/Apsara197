@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **front-end web technologies like HTML, CSS, and more..**
 
-- 💬 Ask me about **HTML, CSS, MySQL**
+- 💬 Ask me about **HTML, CSS, MySQL.....**
 
 - 📫 How to reach me **apsaraweerasinghe195@gmail.com**
 
